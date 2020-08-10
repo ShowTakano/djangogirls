@@ -1,4 +1,4 @@
-# Djang
+# Django
 
  - チュートリアル
 
